@@ -1,0 +1,5 @@
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.Android/bin/Debug/AliPush.Binding.Android.dll
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.Android/bin/Debug/AliPush.Binding.Android.pdb
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.Android/obj/Debug/AliPush.Binding.Android.csproj.CoreCompileInputs.cache
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.Android/obj/Debug/AliPush.Binding.Android.dll
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.Android/obj/Debug/AliPush.Binding.Android.pdb

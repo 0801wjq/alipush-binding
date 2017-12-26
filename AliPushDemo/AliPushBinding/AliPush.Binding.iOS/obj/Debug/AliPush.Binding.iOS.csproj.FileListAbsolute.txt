@@ -1,0 +1,10 @@
+/Users/bella/Projects/TestAliPush/AliPush/AliPush.Binding.iOS/bin/Debug/AliPush.Binding.iOS.dll
+/Users/bella/Projects/TestAliPush/AliPush/AliPush.Binding.iOS/bin/Debug/AliPush.Binding.iOS.pdb
+/Users/bella/Projects/TestAliPush/AliPush/AliPush.Binding.iOS/obj/Debug/AliPush.Binding.iOS.csproj.CoreCompileInputs.cache
+/Users/bella/Projects/TestAliPush/AliPush/AliPush.Binding.iOS/obj/Debug/AliPush.Binding.iOS.dll
+/Users/bella/Projects/TestAliPush/AliPush/AliPush.Binding.iOS/obj/Debug/AliPush.Binding.iOS.pdb
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.iOS/bin/Debug/AliPush.Binding.iOS.dll
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.iOS/bin/Debug/AliPush.Binding.iOS.pdb
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.iOS/obj/Debug/AliPush.Binding.iOS.csproj.CoreCompileInputs.cache
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.iOS/obj/Debug/AliPush.Binding.iOS.dll
+/Users/bella/Desktop/奇巴项目/guitarpark/qiba.git/qiba/QIBA/AliPush/AliPush.Binding.iOS/obj/Debug/AliPush.Binding.iOS.pdb
